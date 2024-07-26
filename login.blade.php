@@ -12,7 +12,7 @@
     <div style="display: flex; justify-content: center;">
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
-                
+                <p>Tạo lại đăng nhập</p>
             </div>
             <!-- /.card-header -->
             <!-- form start -->
