@@ -10,9 +10,11 @@
 
 <body style="margin-top: 10%;">
     <div style="display: flex; justify-content: center;">
+        <p>aaaaa</p>
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
-                <p>Tạo lại đăng nhập</p>
+                <h1>Conflict đi</h1>
+                <p>aaaaaaa</p>
             </div>
             <!-- /.card-header -->
             <!-- form start -->
