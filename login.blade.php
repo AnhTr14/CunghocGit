@@ -13,7 +13,7 @@
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
                 <p>Lại đăng nhập</p>
-                <p>Đăng nhập</p>
+                <p>aaaaaaa</p>
             </div>
             <!-- /.card-header -->
             <!-- form start -->
