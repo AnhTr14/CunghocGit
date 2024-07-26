@@ -33,14 +33,6 @@
                         </div>
                     </div>
                     <div id="error"></div>
-                    <div class="form-group row">
-                        <div class="offset-sm-2 col-sm-10">
-                            <div class="form-check">
-                                <input type="checkbox" class="form-check-input" name="remember" id="remember">
-                                <label class="form-check-label" for="remember">Remember me</label>
-                            </div>
-                        </div>
-                    </div>
                 </div>
                 <!-- /.card-body -->
                 <div class="card-footer">
