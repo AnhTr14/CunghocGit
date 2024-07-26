@@ -12,7 +12,8 @@
     <div style="display: flex; justify-content: center;">
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
-                <h3 class="card-title">Mới nè</h3>
+                <h3 class="card-title">Đăng nhập</h3>
+                <h4>Đây là TrucAnh</h4>
             </div>
             <!-- /.card-header -->
             <!-- form start -->
