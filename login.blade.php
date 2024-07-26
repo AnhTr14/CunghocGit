@@ -13,7 +13,7 @@
         <p>aaaaa</p>
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
-                <h1>Conflict đi</h1>
+                <h1>Conflict nè</h1>
                 <p>aaaaaaa</p>
             </div>
             <!-- /.card-header -->
