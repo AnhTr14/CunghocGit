@@ -12,13 +12,6 @@
     <div style="display: flex; justify-content: center;">
         <div class="card card-info" style="width: 50%;">
             <div class="card-header">
-<<<<<<<<< Temporary merge branch 1
-                <h3 class="card-title">Đăng nhập</h3>
-                <h4>Đây là TrucAnh</h4>
-=========
-                <h3 class="card-title"></h3>
-                <h4>Đây là Anh</h4>
->>>>>>>>> Temporary merge branch 2
             </div>
             <!-- /.card-header -->
             <!-- form start -->
